@@ -1,5 +1,4 @@
-# cvrphibrido Heurísticas Aplicada ao Problema de
-Roteamento de Veículos Capacitados
+# cvrphibrido Heurísticas Aplicada ao Problema deRoteamento de Veículos Capacitados
 
 Resumo
 O Problema de Roteamento de Veículos (Vehicle Routing Problem,VRP) por ser um
