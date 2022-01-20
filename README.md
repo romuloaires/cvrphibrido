@@ -11,4 +11,4 @@ Otimização é implementado o algoritmo usando heurística baseada em Centroide
 solucionar a variante Problema de Roteamento de Veículos Capacitados (CVRP)
 resumindo-se nas seguintes etapas: a construção e ajuste dos grupos, para
 finalmente estabelecer a rota, usando um algoritmo híbrido baseado em Simulated 
-Annealing e KNN (K-Nearest Neighbors) ,no qual cada veículo deverá seguir
+Annealing e KNN (K-Nearest Neighbors) ,no qual cada veículo deverá segui.
